@@ -1,4 +1,7 @@
 [user]
 	email = tarun.batra00@gmail.com
 	name = Tarun Batra
-	signingKey = 039BCF17
+  signingKey = 039BCF17
+
+[commit]
+  gpgsign = true
