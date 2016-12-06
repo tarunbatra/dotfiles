@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/tbking/Codebrahma'
+let g:netrw_dirhist_2='/home/tbking'
+let g:netrw_dirhist_3='/home/tbking/.3T'
+let g:netrw_dirhist_4='/home/tbking/.3T/data-man-mongodb'
+let g:netrw_dirhist_5='/home/tbking/Codebrahma/settle'
+let g:netrw_dirhist_6='/home/tbking/Codebrahma/settle/server'
+let g:netrw_dirhist_7='/home/tbking/Codebrahma/settle/server/modules'
+let g:netrw_dirhist_8='/home/tbking/Codebrahma/settle/server/modules/fulfillment'
